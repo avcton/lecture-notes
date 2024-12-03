@@ -5,21 +5,7 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [
-    Component.Comments({
-      provider: "giscus",
-      options: {
-        repo: "avcton/avcton.github.io",
-        repoId: "R_kgDOME1DnA",
-        category: "Site Comments",
-        categoryId: "DIC_kwDOME1DnM4CgHjp",
-        mapping: "pathname",
-        themeUrl: "themes",
-        inputPosition: "top",
-        reactionsEnabled: true,
-      },
-    }),
-  ],
+  afterBody: [],
   footer: Component.Footer({
     links: {
       // Linkedin: "https://www.linkedin.com/in/avcton/",
