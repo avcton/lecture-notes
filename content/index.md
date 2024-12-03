@@ -4,8 +4,9 @@ description: Dive into the intellectual world.
 date: 2022-06-05
 ---
 
-> [!quote] Explore **literature** here which may help you out in your studies.
+> [!quote] Explore **literature** which may help you out in your studies.
 
+You can find the following courses in here:
 
 1. [Accounting and Finance](Accounting-and-Finance/index.md)
 2. [Algorithms](Algorithms/index.md)
