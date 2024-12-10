@@ -16,3 +16,6 @@ You can find the following key courses in here:
 6. [NLP](NLP/index.md)
 7. [Operating Systems](Operating-Systems/index.md)
 8. [PDC](PDC/index.md)
+
+
+We hope you will love reading these well crafted notes ^^.
